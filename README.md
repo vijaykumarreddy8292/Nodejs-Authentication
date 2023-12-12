@@ -23,9 +23,9 @@ application
 
 > ***Install project with npm***       
 
-  npm install
-  inp install bcrypt
-  npm install nodemon
+* npm install
+* npm install bcrypt
+* npm install nodemon
 
 
 ***Start APP***
