@@ -1,15 +1,7 @@
 
-# Authentication System
-A complete authentication system which can be used as a starter code for creating any new
+# Backend Test: Nodejs Authentication
+Create a complete authentication system which can be used as a starter code for creating any new
 application
-
-Click [here](http://3.86.114.75:8004/) to go Open app
-
-
-![image](https://i.ibb.co/R6qks43/Screenshot-2023-01-19-150311.png)
-
-
-
 
 
 # Technologies Used
@@ -29,30 +21,18 @@ Click [here](http://3.86.114.75:8004/) to go Open app
 * PassportJs Authentication 
 
 
-
-## Installation
-
-Repo link 
-https://github.com/raj0811/AuthenticationSystemCn.git
-
-
 > ***Install project with npm***       
 
-```bash
-  cd AuthenticationSystemCn
   npm install
   inp install bcrypt
   npm install nodemon
 
-```
 
 ***Start APP***
 
 ```bash 
 npm start
 ```
-
-
 
     
 ## ***Features***
